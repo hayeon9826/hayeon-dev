@@ -24,12 +24,12 @@ module.exports = {
         navigation: [],
         externalLinks: [
           {
-            title: `Github`,
-            slug: `https://github.com/hayeon9826`,
+            name: `Github`,
+            url: `https://github.com/hayeon9826`,
           },
           {
-            title: `Blog`,
-            slug: `https://velog.io/@khy226`,
+            name: `Blog`,
+            url: `https://velog.io/@khy226`,
           },
           {
             name: `Linkedin`,
